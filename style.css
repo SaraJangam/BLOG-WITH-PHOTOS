@@ -1,0 +1,35 @@
+body{
+    background-color: antiquewhite;
+}
+.image1{
+margin-left: 130px;
+margin-top: 50px;
+}
+.image2{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+#p1{
+    margin-left: 215px;
+    font-size: 20px;
+}
+#p2{
+    margin-left: 890px;
+    margin-top: -43px;
+    font-size: 20px;
+}
+#p3{
+    margin-left: 215px;
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+hr{
+    border-style: solid;
+    border-color: black;
+}
